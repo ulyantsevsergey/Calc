@@ -5,12 +5,12 @@ import (
 )
 
 func main() {
-	fmt.Println(sum(1, 2))
+	fmt.Println(Sum(1, 2))
 }
 
 
 // add two numbers
-func sum(a, b int) (c int) {
+func Sum(a, b int) (c int) {
 	c = a + b
 	return
 }
