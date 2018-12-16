@@ -1,13 +1,25 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"testing"
+)
 
 func main() {
 	fmt.Println(add(1, 2))
 }
 
-// add two numbers 1 + 2
-func add(a, b int) (c int) {
-	c = a + b + b*2
-	return c
+//test for add
+func testSum(t *testing.T){
+	total:= Sum(5,5)
+	if total != 10 {
+		t.Errorf("Sum was incorrect, got: %d, want: %d.", total, 10)
+	}
+}
+
+
+// add two numbers
+func Sum(a, b int) (c int) {
+	c = a + b
+	return
 }
