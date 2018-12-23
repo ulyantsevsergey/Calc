@@ -18,6 +18,11 @@ func Sub(a, b int) int {
 	return a - b
 }
 
+//listen port 8000
+//func webServer(){
+//
+//}
+
 // TODO 1 Добавить метод вида num.add()
 // TODO 2 Добавить ссетевой сервер
 // TODO 3 Добавить обработчик / - прибавить один к счётчику посещений
