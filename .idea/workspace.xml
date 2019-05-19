@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="249d7b30-ae1e-4306-add1-73ab078ffb87" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="249d7b30-ae1e-4306-add1-73ab078ffb87" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +45,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Calc.go">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="e#14#31#0" expanded="true" />
               </folding>
@@ -68,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -119,8 +117,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1093" />
-    <option name="y" value="280" />
+    <option name="x" value="1137" />
+    <option name="y" value="149" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -212,11 +210,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go Build.go build Server.go" />
         <item itemvalue="Go Test.Calc_test.go" />
+        <item itemvalue="Go Build.go build Server.go" />
         <item itemvalue="Go Build.go build Calc.go" />
-        <item itemvalue="Go Test.Calc_test.go" />
         <item itemvalue="Go Build.go build Server.go" />
+        <item itemvalue="Go Test.Calc_test.go" />
       </list>
     </recent_temporary>
   </component>
@@ -230,10 +228,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1093" y="280" width="1400" height="1000" extended-state="0" />
-    <editor active="true" />
+    <frame x="1137" y="149" width="1400" height="1000" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49741825" visible="true" weight="0.28507462" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49741825" visible="true" weight="0.28955224" />
       <window_info id="Structure" order="1" sideWeight="0.5025818" side_tool="true" weight="0.26865673" />
       <window_info id="Favorites" order="2" sideWeight="0.5025818" side_tool="true" weight="0.26865673" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -245,8 +242,8 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3298731" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.3298731" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3298731" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="9" visible="true" weight="0.3298731" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3298731" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3298731" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -337,7 +334,8 @@
     <MESSAGE value="Добавил планы" />
     <MESSAGE value="Добаввил сервер" />
     <MESSAGE value="Добаввил сервер 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добаввил сервер 1" />
+    <MESSAGE value="Добавить CSS" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавить CSS" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
@@ -348,6 +346,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="12" column="65" selection-start-line="12" selection-start-column="65" selection-end-line="12" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Calc.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#14#31#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -367,18 +375,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="19" selection-start-line="1" selection-start-column="19" selection-end-line="1" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Calc.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#14#31#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
