@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" parallel="tests" name="Failed suite [All tests]" guice-stage="DEVELOPMENT" verbose="0">
+  <parameter name="data" value="555"/>
+  <test thread-count="2" parallel="methods" name="Server(failed)" verbose="0">
+    <classes>
+      <class name="MyTest">
+        <methods>
+          <include name="determTests"/>
+          <include name="checkButtonPresent"/>
+          <include name="initialTests"/>
+          <include name="checkDataTransfer" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- MyTest -->
+    </classes>
+  </test> <!-- Server(failed) -->
+</suite> <!-- Failed suite [All tests] -->
